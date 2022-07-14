@@ -1,0 +1,19 @@
+{
+  "name": "first-project1",
+  "version": "1.0.0",
+  "description": "This is the first project.\r Gopinaidu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maheshposhala/First-Project1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maheshposhala/First-Project1/issues"
+  },
+  "homepage": "https://github.com/Maheshposhala/First-Project1#readme"
+}
